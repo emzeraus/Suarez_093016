@@ -1,0 +1,13 @@
+body{
+	background-color:#555;
+	color: #fff;
+	margin: 20px;
+}
+
+.name{
+	color:red;
+}
+
+.gender{
+	color:pink;
+}
